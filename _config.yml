@@ -6,7 +6,7 @@ cover: assets/images/photo_2018-08-04_21-31-40.jpg
 #logo: assets/images/logo.png
 favicon: assets/images/psi.png
 baseurl: "https://danclaudino.github.io/gh-pages/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+url: "https://danclaudino.github.io/gh-pages/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 
