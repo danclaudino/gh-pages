@@ -6,14 +6,15 @@ cover: assets/images/photo_2018-08-04_21-31-40.jpg
 #logo: assets/images/logo.png
 favicon: assets/images/psi.png
 url: "https://danclaudino.github.io/gh-pages/" # the base hostname & protocol for your site
-baseurl: "https://danclaudino.github.io/gh-pages/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+#baseurl: "https://danclaudino.github.io/gh-pages/" # the subpath of your site, e.g. /blog/ or / for root
 paginate:	5 # The number of posts to show per page on your homepage
 
 
 #Additional Pages
 news: news
 research: research
-publications: publications
+publications: publications and presentations
 blog: blog
 #about: about
 bio: bio
